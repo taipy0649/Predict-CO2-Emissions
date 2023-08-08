@@ -15,3 +15,5 @@ predict CO2 emission
 + 効率的にKaggleでデータ分析する方法について知りたいな
 + train.csvの一番右側に答えがあって、あれが教師になる。
 + このサイトが参考になった[kaggle初心者の私が3ヶ月でソロゴールドを獲得した方法](https://blog.recruit.co.jp/rco/kaggle_by_novice_engineer/)
++ 次のサイトも参考になる
+  + [Kaggle参戦記 〜入門からExpert獲得までの半年間の記録 & お役立ち資料まとめ〜](https://naotaka1128.hatenadiary.jp/entry/kaggle-challenge-story)
